@@ -1,5 +1,5 @@
 title: "Ústavní žaloba na prezidenta Zemana. Jak bude hlasovat váš senátor?"
-perex: "Pouze devět senátorů chce nebo zvažuje hlasovat pro podání ústavní žaloby na prezidenta Miloše Zemana za hrubé porušení ústavy. Vyplynulo to z ankety Radiožurnálu. Sedmnáct členů horní komory by pro ni naopak nehlasovalo. A polovina všech senátorů nemá jasno. Rozhodnout se chtějí až podle znění návrhu, který připravuje Klub pro liberální demokracii. Impulzem pro sepsání žaloby bylo údajné ovlivňování soudců ze strany Hradu."
+perex: "Pouze devět senátorů chce nebo zvažuje hlasovat pro podání ústavní žaloby na prezidenta Miloše Zemana za hrubé porušení Ústavy. Vyplynulo to z ankety Radiožurnálu. Sedmnáct členů horní komory by pro ni naopak nehlasovalo. A polovina všech senátorů nemá jasno. Rozhodnout se chtějí až podle znění návrhu, který připravuje Klub pro liberální demokracii. Impulzem pro sepsání žaloby bylo údajné ovlivňování soudců ze strany Hradu."
 published: "21. dubna 2018"
 coverimg: https://interaktivni.rozhlas.cz/brexit/media/cover.jpg
 coverimg_note: "Foto <a href='#'>ČTK</a>"
@@ -8,7 +8,7 @@ libraries: [jquery] #jquery, d3, highcharts, datatables
 options: [noheader, nopic] #wide, noheader (, nopic)
 ---
 
-Ochrana ústavy, potřeba nemlčet, ale také hloupost nebo snaha se zviditelnit. Všechny tyto výrazy senátoři uvádějí v souvislosti s možnou ústavní žalobou na prezidenta. Nejčastěji od nich ale zaznívá, že nejdřív potřebují vidět samotný návrh.
+Ochrana Ústavy, potřeba nemlčet, ale také hloupost nebo snaha se zviditelnit. Všechny tyto výrazy senátoři uvádějí v souvislosti s možnou ústavní žalobou na prezidenta. Nejčastěji od nich ale zaznívá, že nejdřív potřebují vidět samotný návrh.
 
 To je i případ předsedy ústavně právního výboru Senátu Miroslava Antla za ČSSD: „Já jsem právník a potřebuju přečíst to, co je kladeno za vinu. Sám jsem napsal stovky obžalob, a kdybych vycházel jenom z toho, že se mi někdo nelíbí, tak jsem jich napsal tisíce. Měli bychom se tím opravdu důkladně zabývat, fakt rozum, a nejen nenávist, anebo naopak láska k prezidentovi,“ řekl Antl.
  
@@ -20,7 +20,7 @@ Na dotaz Radiožurnálu odpovědělo téměř 70 senátorů a senátorek z aktu�
 
 Ústavní žalobu na prezidenta připravuje senátorský Klub pro liberální demokracii. Řešit by měla údajné zasahování prezidenta do nezávislosti justice, zpochybňování tajných služeb nebo třeba prezidentovy výroky v kauze Novičok. Předseda klubu Václav Láska chce návrh žaloby senátorům představit zhruba za měsíc. Aby se o něm hlasovalo na plénu, musel by ale nejdřív sehnat alespoň 27 podpisů senátorů.
  
-## Hrad: Je to jen nenávistný pokus o zviditelnění v médiích
+## Hrad: Jen nenávistný pokus o zviditelnění
 
 „My zcela předběžně máme přislíbených nějakých 18 podpisů. To znamená, že té hranici jsme relativně blízko. Nemyslím si, že by měl být velký problém ty podpisy sehnat,“ říká Láska.
  
