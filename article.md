@@ -1,39 +1,43 @@
-title: "Data z mobilů:<br>Praha se denně nafoukne o polovinu, v centru jsou návštěvníci v převaze"
-perex: "Skoro 140 tisíc lidí přijede do Prahy každý den za prací. Míří hlavně do kancelářských budov a do centra města. S nimi pak dorazí i přes půl milionu návštěvníků. Ukázala to analýza dat o pohybu mobilních telefonů, kterou si nyní město nechává zpracovat."
+title: "Ústavní žaloba na prezidenta Zemana. Jak bude hlasovat váš senátor?"
+perex: "Pouze devět senátorů chce nebo zvažuje hlasovat pro podání ústavní žaloby na prezidenta Miloše Zemana za hrubé porušení ústavy. Vyplynulo to z ankety Radiožurnálu. Sedmnáct členů horní komory by pro ni naopak nehlasovalo. A polovina všech senátorů nemá jasno. Rozhodnou se chtějí až podle znění návrhu, který připravuje Klub pro liberální demokracii. Impulsem pro sepsání žaloby bylo údajné ovlivňovácí soudců ze strany Hradu."
 published: "21. dubna 2018"
 coverimg: https://interaktivni.rozhlas.cz/brexit/media/cover.jpg
 coverimg_note: "Foto <a href='#'>ČTK</a>"
 styles: []
-libraries: [] #jquery, d3, highcharts, datatables
-options: [noheader] #wide, noheader (, nopic)
+libraries: [jquery] #jquery, d3, highcharts, datatables
+options: [noheader, nopic] #wide, noheader (, nopic)
 ---
-<left>
-	<p>
-	<b>KAREL HYNEK MÁCHA</b>
-	</p><p>
-	Karel Hynek Mácha (16. listopadu 1810 Praha-Malá Strana[1] – 6. listopadu 1836 Litoměřice[2]) byl český básník a prozaik, představitel českého romantismu a zakladatel moderní české poezie. Proslavil se jak svým životem, tak dílem, jemuž dominuje Máj (1836).
-	</p>
-</left>
 
-Během dne se lidéx v Praze soustřeďují v okolí administrativních center a obchodů, po poledni se tak nejvíc zahustí okolí Andělu, centrum Prahy (Vodičkova ulice a Petrské náměstí) a Brumlovka nedaleko Budějovické. Na poslední jmenované adrese sídlí řada velkých korporací, mezi nimi i Microsoft nebo ČEZ. Pro srovnání, na zmíněných místech je ve „špičce“ okolo šesti stovek osob na jeden hektar, průměr Prahy je 25 obyvatel na [hektar](https://cs.wikipedia.org/wiki/Hektar) (Václavské náměstí má rozlohu asi 4 hektary).
+Ochrana ústavy, potřeba nemlčet, ale taky hloupost nebo snaha se zviditelnit. Všechny tyto výrazy senátoři uvádějí v souvislosti s možnou ústavní žalobou na prezidenta. Nejčastěji od nich ale zaznívá, že nejdřív potřebují vidět samotný návrh.
 
-Naopak v noci se nejvíc lidí se „namačká“ ve Vršovicích, jde o 430 osob na hektar.
+To je i případ předsedy Ústavně právního výboru Senátu Miroslava Antla za ČSSD: „Já jsem právník a potřebuju přečíst to, co je kladeno za vinu. Sám jsem napsal stovky obžalob, a kdybych vycházel jenom z toho, že se mi někdo nelíbí, tak jsem jich napsal tisíce asi. Měli bychom se tím opravdu důkladně zabývat, fakt rozum a nejen nenávist, anebo naopak láska k prezidentovi,“ řekl Antl.
+ 
+Další senátoři rovnou říkají, že návrh je zbytečný a hlasovat pro něj nebudou. Například zákonodárce ODS Tomáš Jirsa: „Já to považuju za blbosť a nechci kolegům sahat do svědomí, ale i za populismus. Sami vědí, že to přes poslaneckou sněmovnu neprojde a bude z toho jenom takový mediální humbuk, ale i mezinárodní ostuda.“
+ 
+Někteří členové horní komory naopak tvrdí, že žalobou je potřeba upozornit na chování prezidenta Miloše Zemana. A to i přesto, že návrh nejspíš nemá šanci na úspěch, říká šéf poslanců KDU-ČSL a nezávislých Petr Šilar: „Poslední kapička byla teď druhé nejmenování profesorů. Přetekla trpělivost a je potřeba se ozvat. Byli jsme taky do Senátu zvolení jako ochránci ústavy, takže si myslím, že bychom to měli dodržovat.“
+ 
+Na dotaz Radiožurnálu odpovědělo téměř 70 senátorů a senátorek z aktuálního počtu osmdesáti členů horní komory. (Zuzana Baudyšová rezignovala, proto je nyní senátorů o jednoho méně).
 
-Detaily si můžete prohlédnout v následující mapě, kterou z dat mobilních operátorů zpracoval pražský [Institut plánování a rozvoje](http://www.iprpraha.cz/).
+Ústavní žalobu na prezidenta připravuje senátorský Klub pro liberální demokracii. Řešit by měla údajné zasahování prezidenta do nezávislosti justice, zpochybňování tajných služeb, nebo třeba prezidentovy výroky v kauze Novičok. Předseda klubu Václav Láska chce návrh žaloby senátorům představit zhruba za měsíc. Aby se o něm hlasovalo na plénu, musel by ale nejdřív sehnat alespoň 27 podpisů senátorů.
+ 
+## Hrad: Je to jen nenávistný pokus o zviditelnění v médiích
 
-<wide><i>Pokud vás zajímá, kolik lidí bývá ve dne a v noci ve vaší čtvrti, najděte si ji na mapě, přepněte se na časové řezy, vyberte přepínač hustota osob a potom pohybujte posuvníkem nahoře.</i></wide>
+„My zcela předběžně máme přislíbených nějakých 18 podpisů. To znamená, že té hranici jsme relativně blízko. Nemyslím si, že by měl být velký problém ty podpisy sehnat,“ říká Láska.
+ 
+Žalobu Senát podá, pokud pro ni hlasují tři pětiny přítomných senátorů. to ale není jediná podmínka, jak připomíná mluvčí horní komory Eva Davidová: „Od roku 2013 pak Senát k podání ústavní žaloby vždy potřebuje získat také souhlas Poslanecké sněmovny a k tomu je potřeba třípětinová většina všech poslaneckých hlasů.“
+ 
+Tedy minimálně 120 hlasů. A to je vzhledem k současnému rozložení sil ve sněmovně velmi nepravděpodobné. Předseda Senátu Jaroslav Kubera z ODS očekává, že se dostatek hlasů nenajde ani mezi senátory.
 
-## Data na prodej
-<right>
-	<p>
-	<b>KAREL HYNEK MÁCHA</b>
-	</p><p>
-	Karel Hynek Mácha (16. listopadu 1810 Praha-Malá Strana[1] – 6. listopadu 1836 Litoměřice[2]) byl český básník a prozaik, představitel českého romantismu a zakladatel moderní české poezie. Proslavil se jak svým životem, tak dílem, jemuž dominuje Máj (1836).
-	</p>
-</right>
+Hrad už dříve záměr označil za další nenávistný pokus o zviditelnění v médiích. K ústavní žalobě na hlavu státu horní komora přistoupila pouze jednou, a to především kvůli rozsáhlé amnestii, kterou vyhlásil bývalý prezident Václav Klaus. Ústavní soud o ní ale nerozhodl. Řízení zastavil, protože Klausův mandát krátce po podání žaloby vypršel.
 
-I pokud netelefonujeme nebo neposíláme SMS, telefon pravidelně komunikuje s vysílači v síti mobilního operátora. Z dat o síle signálu a použité anténě je možné odvodit, kde se přibližně telefon nachází a jak dlouhou dobu na místě strávil.
+Otázka, kterou Radiožurnál položil všem senátorům, zněla: __Klub pro liberální demokracii připravuje žalobu na prezidenta Miloše Zemana za hrubé porušení ústavy v souvislosti s kauzou údajného ovlivňování soudců. Hlasoval/a byste pro podání žaloby k Ústavnímu soudu?__
 
-Mobilní operátor má [zákonnou povinnost](https://www.zakonyprolidi.cz/cs/2005-127/zneni-20160919#p97-3) takové informace uchovávat, a to půl roku do minulosti, přistupovat k nim ale mohou jen bezpečnostní složky, typicky policie nebo rozvědka.
-
-Operátoři ale obdobné informace mohou anonymizovat (tedy zbavit identifikace konkrétního uživatele) a agregovat, tedy spojit informace o jednotlivcích do jakýchsi skupin. Výsledná obecná čísla pak přeprodávají dál, například marketingovým firmám či dopravním analytikům. Zpětně z nich nejde dovodit, kde se pohybuje každý jednotlivec, dávají ale určitý přehled o obecném chování obyvatel nějakého místa.
+<wide><h2>Senátoři, kteří jsou rozhodnuti hlasovat pro žalobu</h2><div id="anketa1"></div></wide>
+<br>
+<wide><h2>Senátorky, které budou pravděpodobně hlasovat pro žalobu</h2><div id="anketa2"></div></wide>
+<br>
+<wide><h2>Senátoři, kteří jsou rozhodnuti hlasovat proti žalobě</h2><div id="anketa3"></div></wide>
+<br>
+<wide><h2>Senátoři, kteří zatím nevědí</h2><div id="anketa4"></div></wide>
+<br>
+<wide><h2>Senátoři, kteří na otázku Českého rozhlasu neodpověděli</h2><div id="anketa5"></div></wide>

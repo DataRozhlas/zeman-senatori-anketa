@@ -1,0 +1,55 @@
+#anketa1, #anketa2, #anketa3, #anketa4, #anketa5 {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+
+div.respondent {
+  width: 143px; 
+  padding: 0px 1px 10px 1px;
+  margin: 3px 1px 3px 1px;
+  border-bottom: thin dotted lightgrey;
+}
+
+p.jmeno {
+  text-align: center;
+  background-color: #F5F5F5;
+  margin-bottom: 3px;
+  font-size: 85%;
+}
+
+p.veta {
+  font-size: 80%;
+  color: black;
+  margin-top: 0px;
+  margin-bottom: 1px;
+}
+
+img.portret {
+  width: 100px;
+  height: 100px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 2px;
+  border-radius: 50%;
+}
+
+span.cislo {
+  background: black;
+  border-radius: 0.8em;
+  -moz-border-radius: 0.8em;
+  -webkit-border-radius: 0.8em;
+  color: #ffffff;
+  display: inline-block;
+  font-weight: bold;
+  line-height: 1.2em;
+  margin-right: 5px;
+  text-align: center;
+  width: 1.2em;
+  cursor: help;
+}
+
+.bezodpovedi {
+  color: red;
+}

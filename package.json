@@ -22,6 +22,7 @@
     "@babel/preset-env": "^7.2.0",
     "babel-loader": "^8.0.4",
     "clean-css": "^4.2.1",
+    "flexibility": "^2.0.1",
     "marked": "^0.5.1",
     "node-yaml": "^3.1.1",
     "webpack": "^4.28.0"
