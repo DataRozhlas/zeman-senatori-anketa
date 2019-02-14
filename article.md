@@ -36,7 +36,7 @@ Otázka, kterou Radiožurnál položil všem senátorům, zněla: __Klub pro lib
 <br>
 <wide><h2>Senátorky, které budou pravděpodobně hlasovat pro žalobu</h2><div id="anketa2"></div></wide>
 <br>
-<wide><h2>Senátoři, kteří jsou rozhodnuti hlasovat proti žalobě</h2><div id="anketa3"></div></wide>
+<wide><h2>Senátoři, kteří by pro podání žaloby nehlasovali</h2><div id="anketa3"></div></wide>
 <br>
 <wide><h2>Senátoři, kteří zatím nevědí</h2><div id="anketa4"></div></wide>
 <br>
